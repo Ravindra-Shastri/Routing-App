@@ -6,7 +6,7 @@ This is a Routing App.
 
 # Getting Started with Create React App
 
-You will find all the information you will need to work on this project in the `routingapp/src` folder.
+You will find all the information you will need to work on this project in the `Routing-App/src` folder.
 
 #### Features
 
